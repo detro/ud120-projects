@@ -1,0 +1,7 @@
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+Feature TRAINING set size: 15820
+Feature TEST set size: 1758
+Accuracy of Gaussian Naive Bayes classifier: 0.973265073948
+TRAINING time (GaussianNB.fit()): 1.429s
+PREDICTION time (GaussianNB.score()): 0.183s

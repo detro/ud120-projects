@@ -1,8 +1,9 @@
 # Results
 
 ## Chris vs Sara emails ("Enron emails" training set)
+
 | Lesson  | Classifier Algorithm | Accuracy | Training set | Feature set | Training time | Prediction time |
-| :-----: | :-------: | :------: | :-----------: | :-------------: |
+| :-----: | :------------------: | :------: | :----------: | :---------: | :-----------: | :-------------: |
 | Naive Bayes | Gaussian Naive Bayes | 0.97326 | 100% <sup id="a5">[5](#f5)</sup> | 10%% <sup id="a3">[3](#f3)</sup> | 2.58s | 0.321s    |
 | SVM | SVM (Kernel <sup id="a1">[1](#f1)</sup>: Linear) | 0.98407 | 100% | 10%% | 232.457s | 24.674s |
 | SVM | SVM (Kernel: Linear) | 0.88452 | 10% | 10%% | 0.239s | 1.966s |
